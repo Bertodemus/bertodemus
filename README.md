@@ -1,4 +1,4 @@
-![my big face](./images/faceme280.png)
+![my big face](./images/Faceme280.png)
 
 ## Greetings!! 👋
 
