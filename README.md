@@ -1,4 +1,6 @@
-![my big face](./images/Faceme280.png)
+<p align="center">
+  <img src="./images/Faceme280.png">
+</p>
 
 ## Greetings!! 👋
 
