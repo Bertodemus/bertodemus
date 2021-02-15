@@ -1,6 +1,8 @@
+![my big face](./images/faceme280.png)
+
 ## Greetings!! 👋
 
-My name is Roberto Rubet, but I go by Berto! I am a proud Latino artist and now, a developer! I am looking to unify design and technology, creation and implementation, analysis and realization. With many years behind me as a designer/illustrator, my keen ability to absorb complex technical data, and now as a recent graduate of the University of Richmond Coding Bootcamp, I beleive that I can do just that! [Berto Art](https://www.robertorubet.com/ 'Berto's Artwork!').
+My name is Roberto Rubet, but I go by Berto! I am a proud Latino artist and now, a developer! I am looking to unify design and technology, creation and implementation, analysis and realization. With many years under my belt as a designer/illustrator, my keen ability to absorb complex technical data, and now having become a recent graduate of the University of Richmond Coding Bootcamp, I beleive that I can do just that!
 
 ## Everything I have been getting into!
 
@@ -15,25 +17,14 @@ My name is Roberto Rubet, but I go by Berto! I am a proud Latino artist and now,
 ![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=Github&logoColor=474747&color=474747&labelColor=ff9000) ![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&logoColor=474747&color=474747&labelColor=ff9000) ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=Netlify&logoColor=474747&color=474747&labelColor=ff9000) ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=474747&color=474747&labelColor=ff9000) ![NPM](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&logoColor=474747&color=474747&labelColor=ff9000)
 
 
-![Roberto Rubet's github stats](https://github-readme-stats.vercel.app/api?username=bertodemus&show_icons=true&title_color=FFFFFF&icon_color=d84bbf&text_color=FFFFFF&bg_color=474747&hide_border=true)
+![Roberto Rubet's github stats](https://github-readme-stats.vercel.app/api?username=bertodemus&show_icons=true&title_color=FFFFFF&icon_color=ff9000&text_color=FFFFFF&bg_color=474747&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertodemus&title_color=FFFFFF&icon_color=d84bbf&text_color=FFFFFF&bg_color=474747&hide_border=true&layout=compact)
 
 ## Come find me!
 
-[![Berto's Website](https://img.icons8.com/bubbles/50/000000/domain.png)](http://markdcross.dev) [![Linkedin](https://img.icons8.com/officel/40/000000/linkedin.png)](https://www.linkedin.com/in/markdcross/)
+[![Berto's Website](./images/artlogo.png)](https://www.robertorubet.com) [![Linkedin](./images/linkedin60.png)](https://www.linkedin.com/in/roberto-rubet-3a76859?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM%2FYCJfmaSsq99IrQHrj1LA%3D%3D) [![Berto's Email](./images/email60.png)](mailto:roberto@robertorubet.com)
 
 
 <!--
-**Bertodemus/bertodemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Bertodemus/bertodemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
 -->
