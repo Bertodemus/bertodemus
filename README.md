@@ -4,7 +4,7 @@
 
 ## Greetings!! 👋
 
-My name is Roberto Rubet, but I go by Berto! I am a proud Latino artist and now, a developer! I am looking to unify design and technology, creation and implementation, analysis and realization. With my experience as a designer/illustrator, my keen ability to absorb complex technical data, and now having become a recent graduate of the University of Richmond Coding Bootcamp, I beleive that I can do just that!
+My name is Roberto Rubet, but I go by Berto! I am a proud Latino artist and now, a developer! I am looking to unify design and technology, creation and implementation, analysis and realization. With my experience as a designer/illustrator, my keen ability to absorb complex technical data, and now having become a recent graduate of the University of Richmond Coding Bootcamp, I believe that I can do just that!
 
 ## Everything I have been getting into!
 
