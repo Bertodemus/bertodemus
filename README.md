@@ -4,7 +4,7 @@
 
 ## Greetings!! 👋
 
-My name is Roberto Rubet, but I go by Berto! I am a creative, turned developer! I am looking to unify design and technology, creation and implementation, analysis and realization. With my experience as a designer/illustrator, my keen ability to quickly absorb complex technical data, and my love for ideation and the iterative process, I believe that I can do just that!
+My name is Roberto Rubet, but I go by Berto! I am a creative, turned developer! I am looking to unify design and technology, creation and implementation, analysis and realization. With my experience as a designer/illustrator, my willingness to dig for a solution, and my love for ideation and the iterative process, I believe that I can do just that!
 
 ## Everything I have been getting into!
 
