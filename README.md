@@ -18,10 +18,8 @@ My name is Roberto Rubet, but I go by Berto! I am a creative, turned developer! 
 
 ![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=Github&logoColor=474747&color=474747&labelColor=2d8386) ![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&logoColor=474747&color=474747&labelColor=2d8386) ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=Netlify&logoColor=474747&color=474747&labelColor=2d8386) ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=474747&color=474747&labelColor=2d8386) ![NPM](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&logoColor=474747&color=474747&labelColor=2d8386)
 
-
-![Roberto Rubet's github stats](https://github-readme-stats.vercel.app/api?username=bertodemus&show_icons=true&title_color=FFFFFF&icon_color=2d8386&text_color=FFFFFF&bg_color=474747&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertodemus&title_color=FFFFFF&icon_color=d84bbf&text_color=FFFFFF&bg_color=474747&hide_border=true&layout=compact)
-
+<!-- ![Roberto Rubet's github stats](https://github-readme-stats.vercel.app/api?username=bertodemus&show_icons=true&title_color=FFFFFF&icon_color=2d8386&text_color=FFFFFF&bg_color=474747&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertodemus&title_color=FFFFFF&icon_color=d84bbf&text_color=FFFFFF&bg_color=474747&hide_border=true&layout=compact) -->
 ## Come find me!
 
 [![Berto's Website](./images/artlogo.png)](https://www.robertorubet.com) [![Linkedin](./images/linkedin60.png)](https://www.linkedin.com/in/roberto-rubet-3a76859?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM%2FYCJfmaSsq99IrQHrj1LA%3D%3D) [![Berto's Email](./images/email60.png)](mailto:roberto@robertorubet.com)
