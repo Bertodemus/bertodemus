@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./images/Faceme280.png">
-</p>
+</p> -->
 
 ## Greetings!! 👋
 
